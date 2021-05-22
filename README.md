@@ -1,3 +1,3 @@
 # resume
 
-Link: [Resume](https://shubhamagrawal-13.github.io/resume)
+Link: [Home Page](https://shubhamagrawal-13.github.io)
